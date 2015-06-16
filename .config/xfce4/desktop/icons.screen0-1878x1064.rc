@@ -1,0 +1,27 @@
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[/home/guest-settings/Desktop/xfce-keyboard-settings.desktop]
+row=1
+col=1
+
+[/home/guest-settings/Desktop/google-chrome.desktop]
+row=2
+col=0
+
+[/home/guest-settings/Desktop/xfce4-accessibility-settings.desktop]
+row=1
+col=0
+
+[/home/guest-settings/Desktop/abiword.desktop]
+row=0
+col=0
+
+[/home/guest-settings/Desktop/Google Chrome _ no sandbox.desktop]
+row=3
+col=0
+
+[/home/guest-settings/Desktop/language-selector.desktop]
+row=0
+col=1
+

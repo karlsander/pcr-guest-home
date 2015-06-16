@@ -1,0 +1,793 @@
+{
+   "checksum": "4aac21510e5f80bfbeb82fb23b9e20e2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13077665327063545",
+            "id": "6",
+            "name": "Bookmarks",
+            "type": "url",
+            "url": "chrome://bookmarks/"
+         }, {
+            "children": [ {
+               "date_added": "13059159442000000",
+               "id": "12",
+               "name": "http://www.goethe-verlag.com/book2/",
+               "type": "url",
+               "url": "http://www.goethe-verlag.com/book2/"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "13",
+               "name": "http://deutschkurse.dw.de/KursPlattform/WebObjects/KursPlattform.woa/wa/UAAuthDA/auth?par=G5n9lnSPUIqm93qsNXWNH45V0",
+               "type": "url",
+               "url": "http://deutschkurse.dw.de/KursPlattform/WebObjects/KursPlattform.woa/wa/UAAuthDA/auth?par=G5n9lnSPUIqm93qsNXWNH45V0"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "14",
+               "name": "http://www.abfrager.de/",
+               "type": "url",
+               "url": "http://www.abfrager.de/"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "15",
+               "name": "LEO Deutsch-Englisches Wörterbuch",
+               "type": "url",
+               "url": "http://dict.leo.org/"
+            }, {
+               "date_added": "13065575167000000",
+               "id": "16",
+               "name": "Deutsch üben - Deutsch üben - Goethe-Institut ",
+               "type": "url",
+               "url": "http://www.goethe.de/lrn/prj/wnd/deindex.htm?wt_sc=mwndm"
+            }, {
+               "date_added": "13067682928000000",
+               "id": "17",
+               "name": "Deutsch Lernen - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UCcqYODMjsjxji6v8utkynjg"
+            }, {
+               "date_added": "13065575008000000",
+               "id": "18",
+               "name": "ismail hassan orthographie arabisch deutsch - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/results?search_query=ismail+hassan+orthographie+arabisch+deutsch"
+            }, {
+               "children": [ {
+                  "date_added": "13059159442000000",
+                  "id": "20",
+                  "name": "http://www.youtube.com/watch?v=DpBOPZtqOCM Zahlen lernen",
+                  "type": "url",
+                  "url": "http://www.youtube.com/watch?v=DpBOPZtqOCM"
+               }, {
+                  "date_added": "13059159442000000",
+                  "id": "21",
+                  "name": "http://www.youtube.com/watch?v=tYI_1XebuAU Alphabet lernenhttp://www.youtube.com/watch?v=KO9DAnw39do",
+                  "type": "url",
+                  "url": "http://www.youtube.com/watch?v=tYI_1XebuAU"
+               }, {
+                  "date_added": "13059159442000000",
+                  "id": "22",
+                  "name": "http://www.youtube.com/watch?v=34tkTTuv4P4 Alphabet mit Musik",
+                  "type": "url",
+                  "url": "http://www.youtube.com/watch?v=34tkTTuv4P4"
+               }, {
+                  "date_added": "13059159442000000",
+                  "id": "23",
+                  "name": "http://www.youtube.com/watch?v=KO9DAnw39do zahlen mit Musik",
+                  "type": "url",
+                  "url": "http://www.youtube.com/watch?v=KO9DAnw39do"
+               }, {
+                  "date_added": "13059159442000000",
+                  "id": "24",
+                  "name": "Zahlen auf Deutsch: Die Zahlen 1 bis 100 zum Lernen, Hören und Sehen - Blog für alle, die Deutsch lernen",
+                  "type": "url",
+                  "url": "http://deutsch-lerner.blog.de/2008/12/17/zahlen-1-100-lernen-hoeren-sehen-5236151/"
+               }, {
+                  "date_added": "13077306642000000",
+                  "id": "25",
+                  "name": "Österreichischer Integrationsfonds: Lehrmaterial",
+                  "type": "url",
+                  "url": "http://www.integrationsfonds.at/top_services/lehrmaterial/"
+               } ],
+               "date_added": "13077667544830857",
+               "date_modified": "0",
+               "id": "19",
+               "name": "Alphabet",
+               "type": "folder"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "26",
+               "name": "Bildwörterbuch",
+               "type": "url",
+               "url": "http://bildwoerterbuch.pons.com/"
+            }, {
+               "date_added": "13065577017000000",
+               "id": "27",
+               "name": "Tigrigna-German",
+               "type": "url",
+               "url": "http://www.tigrigna-german.ch/?gb"
+            } ],
+            "date_added": "13077667544827152",
+            "date_modified": "0",
+            "id": "11",
+            "meta_info": {
+               "stars.version": "crx.2.2015.522.11440"
+            },
+            "name": "lernen",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13059159442000000",
+               "id": "29",
+               "name": "Integrationsmaßnahmen",
+               "type": "url",
+               "url": "http://www.stmas.bayern.de/integration/massnahmen/index.php"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "30",
+               "name": "Start",
+               "type": "url",
+               "url": "http://oet.bamf.de/pls/oetut/f?p=532:1:905834325624804:::::"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "31",
+               "name": "Basiswissen :: Pro Asyl",
+               "type": "url",
+               "url": "http://www.proasyl.de/de/themen/basics/basiswissen/"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "32",
+               "name": "Sozialwegweiser - Kompass für den Landkreis Bad Tölz-Wolfratshausen - Gruppen und Treffpunkte für Kinder und Jugendliche",
+               "type": "url",
+               "url": "http://www.familienkompass.net/index.php?id=0,1380"
+            } ],
+            "date_added": "13077667544833883",
+            "date_modified": "0",
+            "id": "28",
+            "meta_info": {
+               "stars.version": "crx.2.2015.522.11440"
+            },
+            "name": "flüchtlingeasyl",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13059159442000000",
+               "id": "34",
+               "name": "Facebook (1)",
+               "type": "url",
+               "url": "http://de-de.facebook.com/"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "35",
+               "name": "https://twitter.com/",
+               "type": "url",
+               "url": "https://twitter.com/"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "36",
+               "name": "LANDRATSAMT BAD TÖLZ-WOLFRATSHAUSEN",
+               "type": "url",
+               "url": "http://www.lra-toelz.de/"
+            }, {
+               "date_added": "13077306783000000",
+               "id": "37",
+               "name": "Landratsämter in Bayern",
+               "type": "url",
+               "url": "https://www.stmi.bayern.de/min/geschaeftsbereich/landkreise/index.php"
+            } ],
+            "date_added": "13077667544835239",
+            "date_modified": "0",
+            "id": "33",
+            "meta_info": {
+               "stars.version": "crx.2.2015.522.11440"
+            },
+            "name": "sozial",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13059159442000000",
+               "id": "39",
+               "name": "Wohnung mieten München: Wohnungen mieten",
+               "type": "url",
+               "url": "http://www.immowelt.de/immobilien/immoliste.aspx?geoid=10809162000&lat=48.1432&lon=11.55661&sr=50&etype=1&esr=2&prima=650"
+            }, {
+               "date_added": "13065571955000000",
+               "id": "40",
+               "name": "Immobilien schnell und einfach finden bei immowelt.de",
+               "type": "url",
+               "url": "http://www.immowelt.de/"
+            }, {
+               "date_added": "13070821824000000",
+               "id": "41",
+               "name": "WG Zimmer Wohnungen Wohnungssuche WG Suche WG Wohnung vermieten WG Nachmieter Zwischenmiete : WG-Gesucht.de",
+               "type": "url",
+               "url": "http://www.wg-gesucht.de/"
+            } ],
+            "date_added": "13077667544836509",
+            "date_modified": "0",
+            "id": "38",
+            "meta_info": {
+               "stars.version": "crx.2.2015.522.11440"
+            },
+            "name": "wohnen",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13059159442000000",
+               "id": "43",
+               "name": "Mitfahrzentrale mitfahrgelegenheit.de",
+               "type": "url",
+               "url": "http://www.mitfahrgelegenheit.de/"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "44",
+               "name": "DB Bahn: bahn.de - Ihr Mobilitätsportal für Reisen, Bahn, Urlaub, Hotels, Städtereisen und Mietwagen",
+               "type": "url",
+               "url": "http://www.bahn.de/p/view/index.shtml"
+            }, {
+               "date_added": "13077306869000000",
+               "id": "45",
+               "name": "Deutschlands großer Fernbus Vergleich | Fernbusse.de",
+               "type": "url",
+               "url": "http://www.fernbusse.de/"
+            } ],
+            "date_added": "13077667544837529",
+            "date_modified": "0",
+            "id": "42",
+            "meta_info": {
+               "stars.version": "crx.2.2015.522.11440"
+            },
+            "name": "reisen",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13059159442000000",
+               "id": "47",
+               "name": "Online Rechtschreibprüfung 24/7 - Prüfen Sie Ihre Texte kostenlos auf Korrektheit - Tag und Nacht!",
+               "type": "url",
+               "url": "http://rechtschreibpruefung24.de/"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "48",
+               "name": "www.planet-beruf.de:  BERUFENET",
+               "type": "url",
+               "url": "http://www.planet-beruf.de/Basics-BERUFENET.17531.0.html"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "49",
+               "name": "BERUFENET, Berufsinformationen einfach finden - Suche",
+               "type": "url",
+               "url": "http://berufenet.arbeitsagentur.de/berufe/"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "50",
+               "name": "www.arbeitsagentur.de",
+               "type": "url",
+               "url": "http://www.arbeitsagentur.de/web/content/DE/index.htm"
+            }, {
+               "date_added": "13065575195000000",
+               "id": "51",
+               "name": "JOBBÖRSE der Bundesagentur für Arbeit - Deutschlands größtes Online-Jobportal",
+               "type": "url",
+               "url": "https://jobboerse.arbeitsagentur.de/"
+            }, {
+               "date_added": "13065575513000000",
+               "id": "52",
+               "name": "Talents Connect - Du bist mehr als dein Lebenslauf",
+               "type": "url",
+               "url": "https://www.talentsconnect.com/"
+            }, {
+               "date_added": "13065586355000000",
+               "id": "53",
+               "name": "Handwerksführerschein Online - Prüfbogen: Kfz-Mechatroniker/in",
+               "type": "url",
+               "url": "http://www.handwerk-nrw.de/index.php?id=1290"
+            }, {
+               "date_added": "13070821027000000",
+               "id": "54",
+               "name": "Bewerbungstraining - das Anschreiben - Job-Pages hilft Stellensuchenden bei der Vorbereitung bei: Bewerbungsschreiben Lebenslauf Vorstellungsgespräch Stellenanzeige Stellensuche",
+               "type": "url",
+               "url": "http://www.job-pages.de/bewerbung-anschreiben.html"
+            } ],
+            "date_added": "13077667544839970",
+            "date_modified": "0",
+            "id": "46",
+            "meta_info": {
+               "stars.version": "crx.2.2015.522.11440"
+            },
+            "name": "job",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13059159442000000",
+               "id": "56",
+               "name": "How to Remove and Install Your Wheels - Bicycle Tutor Video",
+               "type": "url",
+               "url": "http://bicycletutor.com/remove-install-wheels/"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "57",
+               "name": "YouTube",
+               "type": "url",
+               "url": "http://www.youtube.com/"
+            }, {
+               "children": [ {
+                  "date_added": "13059159442000000",
+                  "id": "59",
+                  "name": "▶ How to crochet baby shoes with criss cross strap- zapatitos de bebe en crochet - YouTube",
+                  "type": "url",
+                  "url": "http://www.youtube.com/watch?v=VRQ9CUGk9ww"
+               }, {
+                  "date_added": "13059159441000000",
+                  "id": "60",
+                  "name": "▶ Crochet pouch for feminine stuff كروشيه شنطة للأغراض النسائية - YouTube",
+                  "type": "url",
+                  "url": "http://www.youtube.com/watch?v=uXrH2CazgLE"
+               }, {
+                  "date_added": "13059159441000000",
+                  "id": "61",
+                  "name": "▶ كروشيه قبعه Crochet Hat 0-3 - YouTube",
+                  "type": "url",
+                  "url": "http://www.youtube.com/watch?v=ERNXCeztL9c"
+               }, {
+                  "date_added": "13059159441000000",
+                  "id": "62",
+                  "name": "▶ أساسيات الكروشيه SYRevolution Crochet Basics - YouTube",
+                  "type": "url",
+                  "url": "http://www.youtube.com/watch?v=kTQIJFuwNJo"
+               }, {
+                  "date_added": "13059159441000000",
+                  "id": "63",
+                  "name": "▶ myboshi Baby Mütze häkeln mit Blümchen - YouTube",
+                  "type": "url",
+                  "url": "http://www.youtube.com/watch?v=sQNO6Cd-uzA"
+               }, {
+                  "date_added": "13059159441000000",
+                  "id": "64",
+                  "name": "▶ Mütze häkeln lernen mit halben Stäbchen - YouTube",
+                  "type": "url",
+                  "url": "http://www.youtube.com/watch?v=ptIywBzMV9Q"
+               }, {
+                  "date_added": "13059159441000000",
+                  "id": "65",
+                  "name": "آموزش زنجیره(chain) | زنگ قلاب بافی",
+                  "type": "url",
+                  "url": "http://crochetschool.ir/site/?p=90"
+               } ],
+               "date_added": "13077667544845923",
+               "date_modified": "0",
+               "id": "58",
+               "name": "handarbeit",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13059159441000000",
+                  "id": "67",
+                  "name": "▶ آموزش انتقال عکس از دوربین عکاسی‌ به کامپیوتر - YouTube",
+                  "type": "url",
+                  "url": "http://www.youtube.com/watch?v=eGn3JuhJEYs"
+               }, {
+                  "date_added": "13059159441000000",
+                  "id": "68",
+                  "name": "Learn windows 7 Farsi آموزش ویندوز7 مایکروسافت به زبان فارسی - YouTube",
+                  "type": "url",
+                  "url": "http://www.youtube.com/watch?v=HBYjzDWZQbM"
+               }, {
+                  "date_added": "13059159441000000",
+                  "id": "69",
+                  "name": "Übungen mit Buchstaben, Tippen lernen mit 10 Fingern",
+                  "type": "url",
+                  "url": "http://www.maschinenschreibenlernen.de/DE/Aspx/SelectExerciseWithCharacters.aspx"
+               } ],
+               "date_added": "13077667544848937",
+               "date_modified": "0",
+               "id": "66",
+               "name": "computer",
+               "type": "folder"
+            }, {
+               "date_added": "13059159441000000",
+               "id": "70",
+               "name": "Führerscheintest kostenlos online für alle Führerscheinklassen",
+               "type": "url",
+               "url": "http://fuehrerschein.sueddeutsche.de/main/quiz"
+            } ],
+            "date_added": "13077667544845114",
+            "date_modified": "0",
+            "id": "55",
+            "meta_info": {
+               "stars.version": "crx.2.2015.522.11440"
+            },
+            "name": "Praxis",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13059159442000000",
+               "id": "72",
+               "name": "http://translate.google.com/",
+               "type": "url",
+               "url": "http://translate.google.com/"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "73",
+               "name": "Online Translator  PROMT Company",
+               "type": "url",
+               "url": "http://www.online-translator.com/srvurl.asp?lang=de"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "74",
+               "name": "busuu - Online kostenlos Sprachen lernen",
+               "type": "url",
+               "url": "http://www.busuu.com/de/"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "75",
+               "name": "SYSTRAN - eServices - SYSTRANBox",
+               "type": "url",
+               "url": "http://www.systranbox.com/"
+            } ],
+            "date_added": "13077667544850723",
+            "date_modified": "0",
+            "id": "71",
+            "meta_info": {
+               "stars.version": "crx.2.2015.522.11440"
+            },
+            "name": "Translation",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13059159441000000",
+               "id": "77",
+               "name": "Orthografietrainer - Rechtschreibung, Übungsaufgaben und Rechtschreibübungen online",
+               "type": "url",
+               "url": "http://www.orthografietrainer.net/index.php"
+            }, {
+               "date_added": "13059159441000000",
+               "id": "78",
+               "name": "ich-will-lernen.de- VHS",
+               "type": "url",
+               "url": "http://www.ich-will-lernen.de/"
+            }, {
+               "date_added": "13059159441000000",
+               "id": "79",
+               "name": "Start",
+               "type": "url",
+               "url": "http://oet.bamf.de/pls/oetut/f?p=532:1:2526011160501874:::::"
+            }, {
+               "date_added": "13059159441000000",
+               "id": "80",
+               "name": "MOOC List | A complete list of Massive Open Online Courses (free online courses) offered by the best universities and entities.",
+               "type": "url",
+               "url": "http://www.mooc-list.com/"
+            }, {
+               "date_added": "13059159441000000",
+               "id": "81",
+               "name": "Virtuelle Hochschule Bayern - Kursprogramm",
+               "type": "url",
+               "url": "http://kurse.vhb.org/VHBPORTAL/kursprogramm/kursprogramm.jsp"
+            }, {
+               "date_added": "13059159441000000",
+               "id": "82",
+               "name": "Duden | Duden online",
+               "type": "url",
+               "url": "http://www.duden.de/woerterbuch"
+            }, {
+               "date_added": "13067185903000000",
+               "id": "83",
+               "name": "Khan Academy",
+               "type": "url",
+               "url": "https://www.khanacademy.org/"
+            }, {
+               "date_added": "13067185923000000",
+               "id": "84",
+               "name": "Khan Academy-Deutsch",
+               "type": "url",
+               "url": "https://de.khanacademy.org/"
+            }, {
+               "date_added": "13070911125000000",
+               "id": "85",
+               "name": "Tandempartner | Schnell und kostenlos einen Tandempartner finden",
+               "type": "url",
+               "url": "https://www.tandempartners.org/"
+            }, {
+               "date_added": "13077563970000000",
+               "id": "86",
+               "name": "L-Pack | Citizenship Language Pack For Migrants in Europe",
+               "type": "url",
+               "url": "http://www.l-pack.eu/?lang=de"
+            } ],
+            "date_added": "13077667544852147",
+            "date_modified": "0",
+            "id": "76",
+            "meta_info": {
+               "stars.version": "crx.2.2015.522.11440"
+            },
+            "name": "advanced",
+            "type": "folder"
+         }, {
+            "date_added": "13077564015000000",
+            "id": "87",
+            "meta_info": {
+               "stars.version": "crx.2.2015.522.11440"
+            },
+            "name": "▶ L Pack – Module 1 Dialogue 1a German - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=V1Ce0XuB9e4&list=PLAHmRvsK0yq3wBPEggzRIbqKU60fZXDyn"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13059159441000000",
+                  "id": "90",
+                  "name": "Mathematik Übersicht",
+                  "type": "url",
+                  "url": "http://www.frustfrei-lernen.de/mathematik/mathematik-uebersicht.html"
+               } ],
+               "date_added": "13077667544856130",
+               "date_modified": "0",
+               "id": "89",
+               "name": "grundlagen",
+               "type": "folder"
+            }, {
+               "date_added": "13059159441000000",
+               "id": "91",
+               "name": "Englisch Lernen Online - Grammatik, Vokabeln, Prüfungen, Spiele",
+               "type": "url",
+               "url": "http://www.englisch-hilfen.de/"
+            }, {
+               "date_added": "13059159441000000",
+               "id": "92",
+               "name": "4teachers: Lehrproben, Unterrichtsentwürfe und Unterrichtsmaterial für Lehrer und Referendare!",
+               "type": "url",
+               "url": "http://www.4teachers.de/?action=show&id=4918"
+            }, {
+               "date_added": "13059159441000000",
+               "id": "93",
+               "name": "Apprendre le français – Cours et exercices gratuits avec Bonjour de France",
+               "type": "url",
+               "url": "http://www.bonjourdefrance.com/"
+            }, {
+               "date_added": "13059159441000000",
+               "id": "94",
+               "name": "Klassenarbeiten.de - Referate, Klassenarbeiten und Lernhilfen",
+               "type": "url",
+               "url": "http://www.klassenarbeiten.de/"
+            }, {
+               "date_added": "13059159441000000",
+               "id": "95",
+               "name": "Deutsch unterrichten | DW.DE",
+               "type": "url",
+               "url": "http://www.dw.de/deutsch-lernen/deutsch-unterrichten/s-2233"
+            }, {
+               "children": [ {
+                  "date_added": "13059159441000000",
+                  "id": "97",
+                  "name": "Prozentrechnung - Prozentwert, Grundwert, Prozentsatz ausrechnen",
+                  "type": "url",
+                  "url": "https://www.mathestunde.com/matheaufgaben-uebungen/klasse-7/prozentrechnung-rechnen-mit-prozent-57"
+               }, {
+                  "date_added": "13059159441000000",
+                  "id": "98",
+                  "name": "KIT - Fakultät für Mathematik - Höhere Mathematik für die Fachrichtungen Elektrotechnik und Informationstechnik bzw. Physik",
+                  "type": "url",
+                  "url": "http://www.math.kit.edu/iana1/seite/hm/"
+               }, {
+                  "date_added": "13059159441000000",
+                  "id": "99",
+                  "name": "Mathematik für Elektrotechnik und Informatik I | AG Geomathematik",
+                  "type": "url",
+                  "url": "http://www.uni-siegen.de/fb6/geomathe/teaching/mathe_et_1/?lang=de"
+               }, {
+                  "date_added": "13065572222000000",
+                  "id": "100",
+                  "name": "Bildungsticket matheplus - IHK München und Oberbayern",
+                  "type": "url",
+                  "url": "http://ihk.skilltime.de/m/"
+               } ],
+               "date_added": "13077667544857977",
+               "date_modified": "0",
+               "id": "96",
+               "name": "Mathematik",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13059159441000000",
+                  "id": "102",
+                  "name": "LEIFI Physik - Grundwissen, Versuche, Aufgaben, Tests, Geschichte der Physik - Bildung, Wissenschaft",
+                  "type": "url",
+                  "url": "http://www.leifiphysik.de/"
+               } ],
+               "date_added": "13077667544859272",
+               "date_modified": "0",
+               "id": "101",
+               "name": "Physik",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13065572971000000",
+                  "id": "104",
+                  "name": "Anlautbilder - Hamsterkiste",
+                  "type": "url",
+                  "url": "http://www.hamsterkiste.de/D020/000.htm"
+               } ],
+               "date_added": "13077667544859736",
+               "date_modified": "0",
+               "id": "103",
+               "name": "lehrmaterial",
+               "type": "folder"
+            } ],
+            "date_added": "13077667544855913",
+            "date_modified": "0",
+            "id": "88",
+            "meta_info": {
+               "stars.version": "crx.2.2015.522.11440"
+            },
+            "name": "Schultraining",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13059159441000000",
+                  "id": "107",
+                  "name": "Mwananchi: mwanzo - Gazeti la habari za kiswahili la kila siku Tanzania, linaongoza",
+                  "type": "url",
+                  "url": "http://www.mwananchi.co.tz/"
+               }, {
+                  "date_added": "13059159441000000",
+                  "id": "108",
+                  "name": "DailyNews Online Edition - Daily News | Tanzania's Leading Online News Edition",
+                  "type": "url",
+                  "url": "http://www.dailynews.co.tz/"
+               }, {
+                  "date_added": "13059159441000000",
+                  "id": "109",
+                  "name": "Tanzania Government Portal: Welcome",
+                  "type": "url",
+                  "url": "http://www.tanzania.go.tz/"
+               }, {
+                  "date_added": "13059159441000000",
+                  "id": "110",
+                  "name": "Tanzania Chat - Wireclub",
+                  "type": "url",
+                  "url": "http://www.wireclub.com/places/tanzania"
+               }, {
+                  "date_added": "13059159441000000",
+                  "id": "111",
+                  "name": "UNHCR - United Republic of Tanzania",
+                  "type": "url",
+                  "url": "http://www.unhcr.org/cgi-bin/texis/vtx/page?page=49e45c736&submit=GO"
+               } ],
+               "date_added": "13077667544860458",
+               "date_modified": "0",
+               "id": "106",
+               "name": "tanzania",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13059159441000000",
+                  "id": "113",
+                  "name": "UNHCR - Afghanistan",
+                  "type": "url",
+                  "url": "http://www.unhcr.org/cgi-bin/texis/vtx/page?page=49e486eb6&submit=GO"
+               } ],
+               "date_added": "13077667544861964",
+               "date_modified": "0",
+               "id": "112",
+               "name": "afghanistan",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13059159441000000",
+                  "id": "115",
+                  "name": "BAMF - Bundesamt für Migration und Flüchtlinge - ZIRF-Datenbank",
+                  "type": "url",
+                  "url": "http://www.bamf.de/DE/Infothek/Informationsservice/ZIRF/zirf-node.html"
+               }, {
+                  "date_added": "13059159441000000",
+                  "id": "116",
+                  "name": "Rückkehrförderung",
+                  "type": "url",
+                  "url": "https://milo.bamf.de/milop/livelink.exe/fetch/2000/702450/698578/704870/customview.html?func=ll&objId=704870&ojcAction=browse"
+               } ],
+               "date_added": "13077667544864053",
+               "date_modified": "0",
+               "id": "114",
+               "name": "allgemein",
+               "type": "folder"
+            }, {
+               "date_added": "13065576619000000",
+               "id": "117",
+               "name": "NewsBrief",
+               "type": "url",
+               "url": "http://emm.newsbrief.eu/NewsBrief/clusteredition/de/latest.html"
+            }, {
+               "date_added": "13065576785000000",
+               "id": "118",
+               "name": "BBC News - Home",
+               "type": "url",
+               "url": "http://www.bbc.com/news/"
+            }, {
+               "date_added": "13065576639000000",
+               "id": "119",
+               "name": "Thousands of Online Newspapers on the Web : World Newspaper Directory : Listed on OnlineNewspapers.com",
+               "type": "url",
+               "url": "http://www.onlinenewspapers.com/"
+            } ],
+            "date_added": "13077667544860274",
+            "date_modified": "0",
+            "id": "105",
+            "meta_info": {
+               "stars.version": "crx.2.2015.522.11440"
+            },
+            "name": "länder",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13059159442000000",
+               "id": "121",
+               "name": "MVV - Münchner Verkehrs- und Tarifverbund",
+               "type": "url",
+               "url": "http://www.mvv-muenchen.de/"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "122",
+               "name": "Regionalverkehr Oberbayern - Regionalverkehr Oberbayern",
+               "type": "url",
+               "url": "http://www.rvo-bus.de/rvo-de/start/"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "123",
+               "name": "Bus: Bad Tölz",
+               "type": "url",
+               "url": "http://www.bad-toelz.de/buerger/rathaus/fachbereiche/verkehr/verkehrsmittel/bus.html"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "124",
+               "name": "JOBBÖRSE - Ergebnisse meiner Umkreissuche - Arbeit, Bad Tölz, Bayern, Deutschland",
+               "type": "url",
+               "url": "http://jobboerse.arbeitsagentur.de/vamJB/stellenangeboteFinden.html?execution=e1s1&d_6827794_p=1"
+            }, {
+               "date_added": "13059159442000000",
+               "id": "125",
+               "name": "Jobs Bad Tölz, Stellenangebote Bad Tölz - meinestadt.de",
+               "type": "url",
+               "url": "http://jobs.meinestadt.de/bad-toelz"
+            }, {
+               "date_added": "13065575411000000",
+               "id": "126",
+               "name": "Startseite - Turnverein - Bad Tölz 1866 e.V.",
+               "type": "url",
+               "url": "http://www.turnverein-badtoelz.de/"
+            } ],
+            "date_added": "13077667544867595",
+            "date_modified": "0",
+            "id": "120",
+            "meta_info": {
+               "stars.version": "crx.2.2015.522.11440"
+            },
+            "name": "regionales",
+            "type": "folder"
+         } ],
+         "date_added": "13077665323142352",
+         "date_modified": "13077667652061561",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13077665323144021",
+         "date_modified": "13077667647912667",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13077665323144024",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
