@@ -9,6 +9,6 @@ git clone https://github.com/karlsander/pcr-guest-home
 mkdir /etc/guest-session/
 ln -s /home/nbadmin/pcr-guest-home/ /etc/guest-session/skel
 
-ln -s /home/nbadmin/pcr-guest-home/config/10-xubuntu.conf /etc/lightdm/lightdm.conf.d/10-xubuntu.conf
+cat /home/nbadmin/pcr-guest-home/config/10-xubuntu.conf > /etc/lightdm/lightdm.conf.d/10-xubuntu.conf
 
 cat /home/nbadmin/pcr-guest-home/config/anacrontab >> /etc/anacrontab
