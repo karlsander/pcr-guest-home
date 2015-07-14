@@ -6,7 +6,6 @@ apt-get -q -y install git libreoffice unattended-upgrades
 dpkg-reconfigure -plow unattended-upgrades
 
 git clone https://github.com/karlsander/pcr-guest-home
-chmod -R 777 pcr-guest-home
 mkdir /etc/guest-session/
 sudo ln -s /home/nbadmin/pcr-guest-home/ /etc/guest-session/skel
 
