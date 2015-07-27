@@ -22,3 +22,32 @@ cd ..
 ls
 cd guest-settings/
 git init
+nano .gitignore
+ls -A
+cd .dmrc
+cat .dmrc
+cat .ICEauthority
+cat .Xauthority 
+git add .
+git commit -m "init"
+git remote add origin git@github.com:karlsander/pcr-guest-home.git
+git push -u origin master
+git push origin master
+git remote remove origin
+git remote add origin https://github.com/karlsander/pcr-guest-home.git
+git push -u origin master
+nano setup.sh
+git add .
+git commit -m "inital"
+git config --global user.email kall@example.com"
+
+git config --global user.email kall
+git config --global user.email kall@kall.ws
+git config --global user.name "Karl Sander"
+git commit -m "inital"
+git remote add origin git@github.com:karlsander/pcr-guest-home.git
+rm -rf .git
+git init
+ls
+ls -l
+ls -A
