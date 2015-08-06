@@ -55,3 +55,7 @@ git pull
 git add .
 git commit -m "add shutdown shortcut"
 git push
+git commit -m "set default keyboard layout to german"
+git add .
+git commit -m "set default keyboard layout to german"
+git push
