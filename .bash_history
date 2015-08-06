@@ -51,3 +51,7 @@ git init
 ls
 ls -l
 ls -A
+git pull
+git add .
+git commit -m "add shutdown shortcut"
+git push
