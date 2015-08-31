@@ -13,7 +13,7 @@
     <property name="icon-size" type="uint" value="76"/>
     <property name="font-size" type="double" value="18.000000"/>
     <property name="show-thumbnails" type="bool" value="true"/>
-    <property name="single-click" type="bool" value="false"/>
+    <property name="single-click" type="bool" value="true"/>
   </property>
   <property name="backdrop" type="empty">
     <property name="screen0" type="empty">

@@ -63,3 +63,6 @@ git commit -m "add onboard shortcut to desktop, maximize firefox"
 git add .
 git commit -m "add onboard shortcut to desktop, maximize firefox"
 git push
+git add .
+git commit -m "configure onboard"
+git push
