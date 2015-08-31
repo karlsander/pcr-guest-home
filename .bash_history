@@ -66,3 +66,6 @@ git push
 git add .
 git commit -m "configure onboard"
 git push
+git add .
+git commit -m "single click to open desktop icons"
+git push
