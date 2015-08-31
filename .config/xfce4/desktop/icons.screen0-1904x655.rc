@@ -1,0 +1,31 @@
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[/home/guest-settings/Desktop/Deutsche Welle.desktop]
+row=1
+col=0
+
+[/home/guest-settings/Desktop/Shut Down.desktop]
+row=2
+col=0
+
+[/home/guest-settings/Desktop/firefox.desktop]
+row=0
+col=1
+
+[/home/guest-settings/Desktop/On-Screen Keyboard.desktop]
+row=0
+col=0
+
+[/home/guest-settings/Desktop/exo-file-manager.desktop]
+row=3
+col=0
+
+[/home/guest-settings/Desktop/abiword.desktop]
+row=2
+col=1
+
+[/home/guest-settings/Desktop/Abfrager.desktop]
+row=1
+col=1
+

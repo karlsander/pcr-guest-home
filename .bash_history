@@ -59,3 +59,7 @@ git commit -m "set default keyboard layout to german"
 git add .
 git commit -m "set default keyboard layout to german"
 git push
+git commit -m "add onboard shortcut to desktop, maximize firefox"
+git add .
+git commit -m "add onboard shortcut to desktop, maximize firefox"
+git push
