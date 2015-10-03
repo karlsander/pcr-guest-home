@@ -37,7 +37,7 @@ user_pref("browser.shell.checkDefaultBrowser", true);
 user_pref("browser.shell.mostRecentDateSetAsDefault", "1441025052");
 user_pref("browser.slowStartup.averageTime", 2678);
 user_pref("browser.slowStartup.samples", 4);
-user_pref("browser.startup.homepage", "http://seekm.github.io/speak/index.html");
+user_pref("browser.startup.homepage", "http://www.dasprojektspeak.tk");
 user_pref("browser.startup.homepage_override.buildID", "20150629114848");
 user_pref("browser.startup.homepage_override.mstone", "39.0");
 user_pref("browser.syncPromoViewsLeftMap", "{\"addons\":4}");
