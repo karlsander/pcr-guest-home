@@ -1,7 +1,7 @@
 export DEBIAN_FRONTEND=noninteractive
-apt-get -q -y update
-apt-get -q -y upgrade
-apt-get -q -y install git libreoffice unattended-upgrades xubuntu-restricted-extras flashplugin-installer
+apt-get -q -y --force-yes update
+apt-get -q -y --force-yes upgrade
+apt-get -q -y --force-yes install git libreoffice unattended-upgrades xubuntu-restricted-extras flashplugin-installer
 
 dpkg-reconfigure -plow unattended-upgrades
 
