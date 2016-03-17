@@ -20,3 +20,5 @@ ln -s /home/nbadmin/pcr-guest-home/ /etc/guest-session/skel
 cat /home/nbadmin/pcr-guest-home/config/10-xubuntu.conf > /etc/lightdm/lightdm.conf.d/10-xubuntu.conf
 
 cat /home/nbadmin/pcr-guest-home/config/anacrontab >> /etc/anacrontab
+
+cat /home/nbadmin/pcr-guest-home/config/pcr >> /etc/NetworkManager/system-connections/pcr
